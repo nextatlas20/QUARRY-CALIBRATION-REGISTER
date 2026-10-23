@@ -1,0 +1,4 @@
+device_id,station,measurement_range,required_standard
+DV-014,North conveyor,0-100,STD-A
+DV-027,Crusher feed,10-90,STD-B
+DV-043,Loadout scale,0-500,STD-C
